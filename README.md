@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.linkedin.com/in/syed-ansharah-sultan/)
 
 <h1 align="center">Hi 👋, I'm Syed Ansharah Sultan</h1>
 <h3 align="center">A passionate developer from India</h3>
