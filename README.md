@@ -1,8 +1,7 @@
 ![github-header-image](https://github.com/syed7086/syed7086/assets/85676664/da0245f2-456b-42b0-ae2b-96e922208141)
 
 
-<h1 align="center">Hi 👋, I'm Syed Ansharah Sultan</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h2 align="center">A passionate developer from India</h2>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
