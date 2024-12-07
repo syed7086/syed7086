@@ -9,11 +9,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack, Applied AI/ML, Deep Learning Algorithms**
+- 🌱 I’m currently learning **MEAN Stack, Applied AI/ML, Deep Learning Algorithms**
 
 - 📫 How to reach me **anshara.2017@gmail.com**
 
-- ⚡ Fun fact **I am Funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
