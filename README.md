@@ -6,9 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MEAN Stack, Applied AI/ML, Deep Learning Algorithms**
+### 👋 Hi there, I'm Syed Ansharah Sultan
 
-- 📫 How to reach me **anshara.2017@gmail.com**
+- 💡 Currently building web apps using Angular, FastAPI, and C#  
+- 🚀 Interested in backend systems, healthcare tech, and full-stack projects  
+- 🛠️ Projects: EHR System, Inventory Manager
 
 
 <h3 align="left">Connect with me:</h3>
