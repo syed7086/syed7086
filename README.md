@@ -8,7 +8,7 @@
 
 ### 👋 Hi there, I'm Syed Ansharah Sultan
 
-- 💡 Currently building web apps using Angular, FastAPI, and C#  
+- 💡 Currently building web apps using Angular, FastAPI
 - 🚀 Interested in backend systems, healthcare tech, and full-stack projects  
 - 🛠️ Projects: EHR System, Inventory Manager
 
