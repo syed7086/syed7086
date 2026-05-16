@@ -7,11 +7,10 @@
 name:     Syed Ansharah Sultan
 role:     Student Developer & Tech Explorer
 focus:
-  - Backend Engineering
   - Network Automation
   - AI/ML Experiments
   - System Design
-learning: [ Go, FastAPI, Docker, Network Protocols ]
+learning: [ Python, FastAPI, Docker, Network Protocols ]
 os:       Linux
 ```
 
@@ -20,13 +19,13 @@ os:       Linux
 ## Stack
 
 **Languages**  
-`Python` `Go` `JavaScript` `Bash` `HTML/CSS`
+`Python` `JavaScript` `Bash` `HTML/CSS`
 
 **Tools & Frameworks**  
-`FastAPI` `Angular` `Docker` `Git` `Linux` `MySQL`
+`FastAPI` `Docker` `Git` `Linux` `MySQL`
 
 **Exploring**  
-`Kubernetes` `Redis` `Nginx` `BGP / OSPF / MPLS`
+`Kubernetes` `Apache` `BGP / OSPF / MPLS`
 
 ---
 
@@ -43,8 +42,8 @@ os:       Linux
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=syed7086&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=syed7086&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
